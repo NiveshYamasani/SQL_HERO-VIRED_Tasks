@@ -1,0 +1,1 @@
+SELECT Emp_name,Job_name FROM EmployeeDetails;
